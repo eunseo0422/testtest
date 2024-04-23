@@ -14,6 +14,8 @@ python xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/test -o [PATH_TO_ANNOTATIONS_FOL
 
 # //////// 은서가 수정/////////////////
 # 열심히 실습 준비중!!!!!!!!!!
+# 이게 맞는건가?
+
 
 import os
 import glob
